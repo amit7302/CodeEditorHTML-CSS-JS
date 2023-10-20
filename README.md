@@ -33,9 +33,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 5. Create a pull request to merge your changes into the master repository.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out to [amitsharma13102002@gmail.com] for any questions or feedback.
 
