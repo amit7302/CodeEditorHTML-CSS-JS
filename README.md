@@ -19,6 +19,8 @@ This is a code editor implemented using HTML, CSS, and JavaScript. It allows use
 
 5. Use the "Save" button to save your code to local storage. This allows you to retrieve it later even after closing the browser.
 
+## Screenshot
+   CodeEditor.png
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
@@ -32,6 +34,7 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your changes to your fork.
 
 5. Create a pull request to merge your changes into the master repository.
+
 
 
 
